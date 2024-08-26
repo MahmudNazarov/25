@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bola{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.ota{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    gap: 30px;
+}
+.bolasi{
+    background: rgb(255, 0, 0);
+position: absolute;
+width: 358px;
+height: 352px;
+left: 811px;
+top: 448px;
+display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin: -250px auto;
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: 0%;
+text-align: left;
+text-align: center;
+}
+.obolasi{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background: rgb(255, 0, 0);
+    position: absolute;
+    width: 358px;
+    height: 352px;
+    left: 63px;
+    top: 448px;
+    margin: -250px auto;
+    font-size: 95px;
+    color: white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.ona{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.ot{
+    display: flex;
+    list-style: none;
+position: absolute;
+width: 1218px;
+height: 39px;
+left: 83px;
+top: 557px;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+gap: 124px;
+padding: 0px 20px 0px 20px;
+color: rgb(0, 0, 0);
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+text-align: center;
+margin: 50px;
+}
